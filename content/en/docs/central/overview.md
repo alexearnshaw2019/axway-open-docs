@@ -12,7 +12,7 @@ AMPLIFY Central is a governance platform that enables a self-service centralized
 
 The following diagram shows full lifecycle API management, and the role of AMPLIFY Central in governing, exposing, and monitoring API traffic flowing within your organization.
 
-This sentence added for workshop
+This sentence added for workshop. This is another sentence added by a reviewer.
 
 ![full lifecycle API management](/Images/central/api_central_overview.png)
 
