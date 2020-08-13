@@ -39,23 +39,22 @@ With ThemeMagic, you have an administrative interface for creating or modifying 
 1. Log in to the Joomla! Administrator Interface (JAI), and click **Extensions > Templates**.
 2. In Templates sidebar, select **Styles**, then select the style **Purity III - Default**.
 
-    ![Joomla user interface with Purity III selecting the styles](/Images/APIPortal/JoomlaThemeMagicStyles.png)
-
+   ![Joomla user interface with Purity III selecting the styles](/Images/APIPortal/JoomlaThemeMagicStyles.png)
 3. Select **ThemeMagic**. ThemeMagic opens your portal home page with theme variables are displayed on the left.
 
-    ![Joomla User Interface with Purity III theme magic](/Images/APIPortal/joomlathememagic.png)
-
+   ![Joomla User Interface with Purity III theme magic](/Images/APIPortal/joomlathememagic.png)
 4. In the ThemeMagic window, sign in to API Portal. You are now ready to start customizing your portal. ![Screenshot on ThemeMagic](/Images/APIPortal/JoomlaThemeMagiconAPIPortal.png)
 
 ### Create a new theme
+
+This is a test
 
 API Portal includes one theme named **Axway**. Create any additional themes from a copy of the Axway theme to ensure that they work properly.
 
 1. Open the ThemeMagic tool, and ensure that the theme selected is the default **Axway** theme.
 2. Click the drop-down next to the **Preview** button, and select **Save As**.
 
-    ![API Portal customize color screen](/Images/APIPortal/portal_customize.png)
-
+   ![API Portal customize color screen](/Images/APIPortal/portal_customize.png)
 3. Enter a name for your theme, click **Accept**, and wait until the new theme is ready. A new folder is created for your new theme in `local/less/themes/`.
 4. Ensure that the theme selected is your new theme, and change the theming variables on the left as needed to customize your theme.
 5. To check how your changes look on the page, click **Preview**.
@@ -203,8 +202,7 @@ To link your logo to template:
 4. Navigate to the folder where the image was uploaded.
 5. Select your logo from the list of the available image files, and click **Insert**.
 
-    Files in **SVG** format are not listed. In that case, you must enter the path to that image in **Image URL**. The path must start with the `images/` segment. For example, `images/path-to-logo/logo-filename.svg`.
-
+   Files in **SVG** format are not listed. In that case, you must enter the path to that image in **Image URL**. The path must start with the `images/` segment. For example, `images/path-to-logo/logo-filename.svg`.
 6. Click **Save**.
 
 {{< alert title="Note" color="primary" >}}You must repeat this procedure to apply your logo to all your templates.{{< /alert >}}
